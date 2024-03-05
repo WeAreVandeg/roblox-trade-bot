@@ -1,9 +1,9 @@
 libraries used: 
-sys
-requests
-random
-time
-threading
+sys,
+requests,
+random,
+time,
+threading,
 colorama 
 
 how to setup:
